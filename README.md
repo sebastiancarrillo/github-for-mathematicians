@@ -21,3 +21,4 @@ this is seb modifying stuff
 
 making a new brach second try
 bracnchcoming back and merging
+kj
