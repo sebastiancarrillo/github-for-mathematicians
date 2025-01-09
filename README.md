@@ -16,3 +16,5 @@ public use under an open license.
 
 This work is copyright 2023-2024 Steven Clontz, available for free and public use
 under an [open license](./LICENSE.md).
+
+this is seb modifying stuff
